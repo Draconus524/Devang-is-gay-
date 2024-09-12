@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   
-    <img src="https://cdn.glitch.me/e5192835-7e72-4da3-bfa8-5a73a215babd%2FBGTCO%20link.png?v=1637452348423" alt="Logo" width="74" height="108">
+  
   </a>
 
 <h3 align="center">Opening the Closet Door: A Beginner’s Guide to Coming Out</h3>
