@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/sningle/BGTCO">
+  
     <img src="https://cdn.glitch.me/e5192835-7e72-4da3-bfa8-5a73a215babd%2FBGTCO%20link.png?v=1637452348423" alt="Logo" width="74" height="108">
   </a>
 
@@ -13,11 +13,7 @@
     A guide for queer people to aid in one of the most well-known LGBTQIA+ milestones: coming out!
     <br />
     <br />
-    <a href="https://bgtco.glitch.me">View Website</a>
-    ·
-    <a href="https://github.com/sningle/BGTCO/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/sningle/BGTCO/issues">Request Feature</a>
+    
   </p>
 </div>
 
